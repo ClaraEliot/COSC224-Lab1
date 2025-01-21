@@ -11,5 +11,18 @@
 }
 
 .main{
-	padding-top: 56;
+	padding-top: 56px;
+}
+.sidenav{
+	height: 100%;
+	width: 250px;
+	top: 56px;
+	left: 0;
+	position: fixed;
+	background-color: #854442;
+	color: #DFCCAF;
+}
+.sidenav h3{
+	text-align: center;
+	margin-top: 10px;
 }
