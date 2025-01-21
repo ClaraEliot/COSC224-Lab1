@@ -12,6 +12,11 @@
 
 .main{
 	padding-top: 56px;
+	background-color: #BE9B7B;
+	color: #3C2F2F;
+	height: 100%;
+	width: 100%;
+	position: fixed;
 }
 .sidenav{
 	height: 100%;
@@ -25,4 +30,11 @@
 .sidenav h3{
 	text-align: center;
 	margin-top: 10px;
+}
+
+.description{
+	padding-left: 250px;
+	padding-top: 75px;
+	width: 100%;
+	text-align: center;
 }
